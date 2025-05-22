@@ -16,7 +16,7 @@ For Cursor, just replace `/.vscode/` with `/.cursor/` and `/Application Support/
 1. Create a shell script with commands to write to a helper file. Save this in `$HOME/.vscode/append_from_clipboard.sh`
 ```
 #!/bin/bash
-pbpaste > ~/.vscode/save_hl.py'
+pbpaste > ~/.vscode/save_hl.py
 ```
 2. Make shell script executable
 ```
