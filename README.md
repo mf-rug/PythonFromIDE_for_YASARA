@@ -3,7 +3,7 @@ Execute Yasara commands from VSCode or Cursor IDE
 
 With this tool, you can write python code with the yasara library in your favorite code editor and execute individual lines or entire scripts in-Yasara simply by marking them in the IDE and pressing a keyboard shortcut. 
 
-![Demo](assets/yaside_demo.gif)
+![Demo](yaside_demo.gif)
 
 
 ## Installation
